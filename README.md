@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Full MERN Stack**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Mess App**
 
-- 💬 Ask me about **HTML,CSS,JS,REACT**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **rajamaddesiya5645@gmail.com**
 
